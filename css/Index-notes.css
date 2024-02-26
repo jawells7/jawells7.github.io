@@ -1,0 +1,117 @@
+.header-background {
+	height: 190px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	width: auto;
+}
+
+.header {
+	position: fixed;
+	padding-top: 0px;
+	width: auto;
+	background-color: transparent;
+	padding-bottom: 20px;
+}
+
+.title {
+	font-size:20px;
+	font-family: "Baskerville Old Face";
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
+.logo {
+	float:right;
+	padding:5px;
+	padding-right: 10px;
+}
+
+.menu {
+	clear:both;
+	color: #330066;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+.submenu {
+	position: relative;
+	display:inline-block;
+	vertical-align: top;
+}
+
+.dropbtn {
+	background-color: red;
+	color: red;
+	
+	padding: 16px;
+	font-size: 18px;
+	border: 1px;
+	font-weight: bold;
+	font-family: "Arial";
+	width: 150px;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f1f1f1;
+	min-width: 150px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	font-family: "Arial";
+	font-size: 16px;
+	font-family: bold;
+	z-index: 1;
+}
+
+.dropdown-content a {
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+.submenu:hover .dropdown-content {display: block;}
+.submenu:hover .dropbtn {background-color: #95d6e9;}
+
+.main {
+	clear: both;
+	padding-top: 100px;
+	padding-left:100px;
+}
+
+.signature {
+	font-size:18px;
+	font-family:"Baskerville Old Face";
+	color:#000099;
+	float:left;
+	width:300px;
+	padding:0px;
+}
+
+.content {
+	float:left;
+	max-width:600px;
+	padding-top:10px;
+}
+
+big1{
+	font-size:30px;
+	font-family:"Baskerville Old Face";
+	font-weight:bold;
+	color:#000099;
+}
+
+big2{
+	font-size:20px;
+	font-family:"Baskerville Old Face";
+	font-family:bold;
+	color:#000099;
+}
