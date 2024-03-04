@@ -94,12 +94,6 @@ body {
 .image {
 	padding-left:200px;
 	padding-right:400px;
-	border-radius:50%;
-	padding-top:10%;
-	width: 650px;
-	height: 600px;
-	clear:both;
-	padding-bottom: 10px;
 }
 
 .main{
