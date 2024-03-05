@@ -20,8 +20,8 @@
 	background-color: black;
 	clear: both;
 	padding-top: 20px;
-	padding-left: 5%;
-	padding-right: 5%;
+	padding-left: 1%;
+	padding-right: 10%;
 	padding-bottom: 20px;
 }
 
@@ -92,9 +92,9 @@ body {
 }
 
 .image {
-	padding-top:80%;
+	padding-top:85%;
 	padding-left:1%;
-	padding-right:70%;
+	padding-right:80%;
 }
 
 .main{
@@ -105,7 +105,7 @@ body {
 
 .textbox{
 	padding-left:10px;
-	padding-right:100px;
+	padding-right:150px;
 	border: 2px solid;
 	font-size: 20px;
 	background-color:#ffeb99;
