@@ -20,7 +20,7 @@
 	background-color: black;
 	clear: both;
 	padding-top: 20px;
-	padding-left: 5%;
+	padding-left: 10%;
 	padding-right: 10%;
 	padding-bottom: 20px;
 }
@@ -104,8 +104,8 @@ body {
 }
 
 .textbox{
-	padding-left:10px;
-	padding-right:150px;
+	padding-left:20px;
+	padding-right:140px;
 	border: 2px solid;
 	font-size: 20px;
 	background-color:#ffeb99;
