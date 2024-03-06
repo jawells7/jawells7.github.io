@@ -20,8 +20,8 @@
 	background-color: black;
 	clear: both;
 	padding-top: 20px;
-	padding-left: 20%;
-	padding-right: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
 	padding-bottom: 20px;
 }
 
@@ -86,13 +86,13 @@ body {
 	background-repeat: no-repeat;
 	background-position:center;
 	background-attachment: fixed;
-	padding-right: 15%;
+	padding-right: 10%;
 	padding-left: 10%;
 	padding-top: 80px;
 }
 
 .image {
-	padding-top:20%;
+	padding-top:10%;
 	padding-left:1%;
 	padding-right:95%;
 }
