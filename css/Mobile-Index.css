@@ -20,8 +20,8 @@
 	background-color: black;
 	clear: both;
 	padding-top: 20px;
-	padding-left: 7%;
-	padding-right: 5%;
+	padding-left: 5%;
+	padding-right: 2%;
 	padding-bottom: 20px;
 }
 
@@ -107,7 +107,7 @@ body {
 	padding-left:50px;
 	padding-right:50px;
 	border: 2px solid;
-	font-size: 15px;
+	font-size: 20px;
 	background-color:#ffeb99;
 }
 
