@@ -53,18 +53,40 @@
 					<th>Job Description</th>
 					<th>Reason for Leaving</th>
 				</tr>
-			
+
+				<tr>
+					<td><b>Digital Support Representative</b></td>
+					<td>Ent Credit Union</td>
+					<td>4/23/2024 - 8/2/2024</td>
+					<td>
+						<ul>
+							<li>Managed and provided support for issues accessing bank accounts</li>
+							<li>Contacted and coordinated with different departments as needed</li>
+							<li>Logged each encountered issue in CRM software</li>
+							<li>Ensured security and privacy of personal and financial information</li>
+							<li>Set-up internal and external funds transfer, loan payments, and bill payments</li>
+							<li>Conducted thorough research into issues and consulted with resources as necessary</li>
+							<li>Documented defects and issues with the banking system</li>
+						</ul>
+					</td>
+					<td>While advertised as primarily a software development and testing role, this position ended up being merely a call center position I realized wasn't the kind of work I enjoyed or was in-line with my career goals.</td>
+				</tr>
+				
 				<tr>
 					<td><b>Assistant Store Manager</b></td>
 					<td>Spirit Halloween</td>
 					<td>7/5/2023 - 11/11/2023</td>
 					<td>
 						<ul>
-							<li>Established and maintained Guest Services</li>
-							<li>Hiring and training staff</li>
-							<li>Installing and troubleshooting technology</li>
-							<li>Controlling expenses, shrinkage, and all aspects of merchandising and inventory</li>
-							<li>Working with employees to create weekly schedules</li>
+							<li>Led and coordinated a group of employees in the set-up, organization, and operation of the store</li>
+							<li>Built large, interactive displays according to company-provided manuals as well as tested and performed troubleshooting for technological components</li>
+							<li>Trained new hires on company expectations, procedures, systems, and customer service</li>
+							<li>Interviewed applicants and decide whether to hire them</li>
+							<li>Handled advanced customer service questions and issues</li>
+							<li>Created training documents for operating POS systems, performing opening and closing duties, and processing shipments</li>
+							<li>Used company's workforce management system, Infor, to create schedules, view applications, approve timesheets, and payroll</li>
+							<li>Managed money in registers and take out deposits during closing while filling out appropriate paperwork and deposit slips</li>
+							<li>Analyzed sales projections and goals to strategize and meet them.</li>
 						</ul>
 					</td>
 					<td>This was a seasonal position that ended after Halloween and once we closed the store</td>
@@ -126,11 +148,12 @@
 					<td>9/6/2019 - 5/13/2022</td>
 					<td>
 						<ul>
-							<li>Attend weekly rehearsals</li>
-							<li>Look over and practice provided music</li>
-							<li>Attend and perform at sporting events</li>
-							<li>Arrive prior to start of sporting events to set-up drum equipment, sound system, and microphones</li>
-							<li>Tearing down and packing away equipment at the end of the night</li>
+							<li>Attended weekly rehearsals</li>
+							<li>Looked over and practice provided music</li>
+							<li>Performed at sporting events</li>
+							<li>Retrieved and transported sound and music equipment from storage building across campus</li>
+							<li>Arrived prior to start of sporting events to set-up drum equipment, sound system, and microphones</li>
+							<li>Tore down and packed away equipment at the end of the night</li>
 						</ul>
 					</td>
 					<td>The funding for this program was cut after the Spring 2022 semester and no longer existed as an employment opportunity.</td>
